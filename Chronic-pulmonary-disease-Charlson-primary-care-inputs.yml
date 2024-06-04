@@ -1,0 +1,357 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-byssinosis---primary.py
+inputModule3:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-antiasthmatics---primary.py
+inputModule4:
+  class: File
+  path: python/interstitial-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-selfmanagement---primary.py
+inputModule6:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-asbestosis---primary.py
+inputModule7:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-service---primary.py
+inputModule8:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-worker---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-respiratory---primary.py
+inputModule10:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-dissent---primary.py
+inputModule11:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-asthmaticu---primary.py
+inputModule12:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-fibrosing---primary.py
+inputModule13:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-theophylline---primary.py
+inputModule14:
+  class: File
+  path: python/inorganic-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-compensatory---primary.py
+inputModule16:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-question---primary.py
+inputModule17:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-obstruct---primary.py
+inputModule18:
+  class: File
+  path: python/parietoalveolar-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule19:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-farmer---primary.py
+inputModule20:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-silicosis---primary.py
+inputModule21:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-failure---primary.py
+inputModule22:
+  class: File
+  path: python/mucopurulent-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule23:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-radiation---primary.py
+inputModule25:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-tracheobronchitis---primary.py
+inputModule26:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-pneumonitis---primary.py
+inputModule27:
+  class: File
+  path: python/pneumopathy-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/perinatal-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule29:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-related---primary.py
+inputModule30:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-pneumoconiosis---primary.py
+inputModule31:
+  class: File
+  path: python/recurrent-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule32:
+  class: File
+  path: python/congenital-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule33:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-condition---primary.py
+inputModule34:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-emphysema---primary.py
+inputModule35:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-causing---primary.py
+inputModule36:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-flaxdressers'---primary.py
+inputModule37:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-exacerbation---primary.py
+inputModule38:
+  class: File
+  path: python/intestinal-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule39:
+  class: File
+  path: python/fancier-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule40:
+  class: File
+  path: python/pleural-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule41:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-haemosiderosis---primary.py
+inputModule42:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-disturbing---primary.py
+inputModule43:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-tuberculosis---primary.py
+inputModule44:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-bronchiectasis---primary.py
+inputModule45:
+  class: File
+  path: python/rheumatoid-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule46:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-mediastinum---primary.py
+inputModule47:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-fistula---primary.py
+inputModule48:
+  class: File
+  path: python/birdfancier-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule49:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-meconium---primary.py
+inputModule50:
+  class: File
+  path: python/wheezy-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule51:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-manifestation---primary.py
+inputModule52:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-attendance---primary.py
+inputModule53:
+  class: File
+  path: python/plaque-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule54:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-appointment---primary.py
+inputModule55:
+  class: File
+  path: python/bullous-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule56:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-agent---primary.py
+inputModule57:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-cannabinosis---primary.py
+inputModule58:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-berylliosis---primary.py
+inputModule59:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-pneumonia---primary.py
+inputModule60:
+  class: File
+  path: python/unsuitable-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule61:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-congestion---primary.py
+inputModule62:
+  class: File
+  path: python/acute-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule63:
+  class: File
+  path: python/other-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule64:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-abscess---primary.py
+inputModule65:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-reporting---primary.py
+inputModule66:
+  class: File
+  path: python/occasional-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule67:
+  class: File
+  path: python/chemical-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule68:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-hypersensitivity---primary.py
+inputModule69:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-doctor---primary.py
+inputModule70:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-agreed---primary.py
+inputModule71:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-frequency---primary.py
+inputModule72:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-sequoiosis---primary.py
+inputModule73:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-airway---primary.py
+inputModule74:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-rescue---primary.py
+inputModule75:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-stannosis---primary.py
+inputModule76:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-pneumothorax---primary.py
+inputModule77:
+  class: File
+  path: python/bronchial-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule78:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-confirmed---primary.py
+inputModule79:
+  class: File
+  path: python/massive-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule80:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-cirrhosis---primary.py
+inputModule81:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-hypostasis---primary.py
+inputModule82:
+  class: File
+  path: python/mixed-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule83:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-broncholithiasis---primary.py
+inputModule84:
+  class: File
+  path: python/hypostatic-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule85:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-fever---primary.py
+inputModule86:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-organising---primary.py
+inputModule87:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-pulmolithiasis---primary.py
+inputModule88:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-pyothorax---primary.py
+inputModule89:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-suberosis---primary.py
+inputModule90:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-eosinophilia---primary.py
+inputModule91:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-obliteran---primary.py
+inputModule92:
+  class: File
+  path: python/clinical-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule93:
+  class: File
+  path: python/annual-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule94:
+  class: File
+  path: python/extrinsic-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule95:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-followup---primary.py
+inputModule96:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-inhalation---primary.py
+inputModule97:
+  class: File
+  path: python/occupational-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule98:
+  class: File
+  path: python/cryptogenic-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule99:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-number---primary.py
+inputModule100:
+  class: File
+  path: python/multiple-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule101:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-oedema---primary.py
+inputModule102:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-druginduced---primary.py
+inputModule103:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-unspecified---primary.py
+inputModule104:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-silica---primary.py
+inputModule105:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-visit---primary.py
+inputModule106:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-empyema---primary.py
+inputModule107:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-alveolitis---primary.py
+inputModule108:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-bronchiolitis---primary.py
+inputModule109:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-declined---primary.py
+inputModule110:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-emergency---primary.py
+inputModule111:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-given---primary.py
+inputModule112:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-leaflet---primary.py
+inputModule113:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-lung---primary.py
+inputModule114:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-pathway---primary.py
+inputModule115:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-smoking---primary.py
+inputModule116:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-loeffler's---primary.py
+inputModule117:
+  class: File
+  path: python/chronic-pulmonary-disease-charlson-primary-care-bagassosis---primary.py
+inputModule118:
+  class: File
+  path: python/simple-chronic-pulmonary-disease-charlson-primary-care---primary.py
+inputModule119:
+  class: File
+  path: python/output-cases.py
